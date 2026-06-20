@@ -35,7 +35,7 @@ body {
     width: 100%;
     background: rgba(10, 14, 39, 0.95);
     backdrop-filter: blur(10px);
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 9px solid var(--border-color);
     z-index: 1000;
     padding: 1rem 0;
 }
@@ -97,7 +97,7 @@ body {
 
 /* ===== HERO SECTION ===== */
 .hero {
-    height: 100vh;
+    height: 90vh;
     display: flex;
     align-items: center;
     justify-content: center;
